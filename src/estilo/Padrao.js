@@ -13,7 +13,7 @@ export default StyleSheet.create({
         fontSize: 24,
         fontWeight: 'bold',
     },
-    inputt: {
+    input: {
         height: 70,
         fontSize: 40,
         borderColor: 'gray',
